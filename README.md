@@ -14,6 +14,8 @@
 ・・・・・  ふせ・・ぬ
 ```
 
+Scalaで書き直した改良版は[こちら](https://github.com/Harsiharsi/scala-ga-layout)。各種配列を評価したデータもあり。
+
 
 ## 設計方針
 
