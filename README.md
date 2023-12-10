@@ -17,6 +17,11 @@
 Scalaで書き直した改良版は[こちら](https://github.com/Harsiharsi/scala-ga-layout)。各種配列を評価したデータもあり。
 
 
+## 導入方法
+
+Google IMEのローマ字テーブルに[このローマ字定義ファイル](https://github.com/Harsiharsi/python-ga-layout/blob/main/composition%232table.txt)をインポートする。
+
+
 ## 設計方針
 
 よい運指、いわゆるアルペジオを最大化すること、また打鍵時の認知的な問題を減らすこと、である。前者については、よい運指を定義し、それに基づいて評価関数を作成し、遺伝的アルゴリズムで探索することによって実現した。評価関数の詳細は後述の節を参照のこと。
